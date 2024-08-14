@@ -1,1 +1,1 @@
-My Personal Homepage (url="www.brainrape.info")www.brainrape.info(/url)
+My Personal Homepage www.brainrape.info
