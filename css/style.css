@@ -2,11 +2,11 @@ img{
 	max-width: 100%;
 }
 .gallery{
-	background-color: #302c2c;
+	background-color: rgb(0, 0, 0);
 	padding: 80px 0;
 }
 .gallery img{
-	background-color: #221f1f;
+	background-color: rgb(0, 0, 0);
 	padding: 15px;
 	width: 100%;
 	box-shadow: 0 0 15px rgba(0,0,0,0.3);
